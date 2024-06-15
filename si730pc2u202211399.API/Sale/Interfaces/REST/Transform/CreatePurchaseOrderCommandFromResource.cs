@@ -1,4 +1,4 @@
-using si730pc2u202211399.API.Sale.Domain.Commands;
+using si730pc2u202211399.API.Sale.Domain.Model.Commands;
 using si730pc2u202211399.API.Sale.Interfaces.REST.Resources;
 
 namespace si730pc2u202211399.API.Sale.Interfaces.REST.Transform;

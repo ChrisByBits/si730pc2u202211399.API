@@ -29,7 +29,6 @@
       <Folder Include="Plantilla\Infrastructure\Persistance\EFC\Repositories\" />
       <Folder Include="Plantilla\Interfaces\REST\Resources\" />
       <Folder Include="Plantilla\Interfaces\REST\Transform\" />
-      <Folder Include="Sale\Domain\Model\" />
     </ItemGroup>
 
 </Project>

@@ -12,6 +12,11 @@ namespace si730pc2u202211399.API.Sale.Interfaces.REST;
  * <summary>
  *    This class is responsible for handling the purchase orders.
  * </summary>
+ * <remarks>
+ *   This class contains the methods to create, read, update and delete purchase orders.
+ *   <author> U202211399 Christopher Lecca </author>
+ *   <version> 1.0.0 </version>
+ * </remarks>
  */
 [ApiController]
 [Route("api/[controller]")]

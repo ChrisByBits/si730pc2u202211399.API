@@ -1,7 +1,7 @@
 using ecomove_web_service.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;
 using EntityFrameworkCore.CreatedUpdatedDate.Extensions;
 using Microsoft.EntityFrameworkCore;
-using si730pc2u202211399.API.Sale.Domain.Aggregates;
+using si730pc2u202211399.API.Sale.Domain.Model.Aggregates;
 
 namespace si730pc2u202211399.API.Shared.Infrastructure.Persistence.EFC.Configuration;
 

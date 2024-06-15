@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using EntityFrameworkCore.CreatedUpdatedDate.Contracts;
 
-namespace si730pc2u202211399.API.Sale.Domain.Aggregates;
+namespace si730pc2u202211399.API.Sale.Domain.Model.Aggregates;
 
 public partial class PurchaseOrder : IEntityWithCreatedUpdatedDate
 {

@@ -62,3 +62,4 @@ C:\CHRISTOPHER\Universidad\Ciclo 5\Aplicaciones Web\C5-AW_Código\AW_Semana-13\R
 C:\CHRISTOPHER\Universidad\Ciclo 5\Aplicaciones Web\C5-AW_Código\AW_Semana-13\Repaso PC2\si730pc2u202211399.API\si730pc2u202211399.API\obj\Debug\net8.0\si730pc2u202211399.API.pdb
 C:\CHRISTOPHER\Universidad\Ciclo 5\Aplicaciones Web\C5-AW_Código\AW_Semana-13\Repaso PC2\si730pc2u202211399.API\si730pc2u202211399.API\obj\Debug\net8.0\si730pc2u202211399.API.genruntimeconfig.cache
 C:\CHRISTOPHER\Universidad\Ciclo 5\Aplicaciones Web\C5-AW_Código\AW_Semana-13\Repaso PC2\si730pc2u202211399.API\si730pc2u202211399.API\obj\Debug\net8.0\ref\si730pc2u202211399.API.dll
+C:\CHRISTOPHER\Universidad\Ciclo 5\Aplicaciones Web\C5-AW_Código\AW_Semana-13\Repaso PC2\si730pc2u202211399.API\si730pc2u202211399.API\obj\Debug\net8.0\si730pc2u202211399.API.sourcelink.json

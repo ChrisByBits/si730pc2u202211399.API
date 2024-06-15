@@ -1,8 +1,20 @@
 
-using si730pc2u202211399.API.Sale.Domain.Commands;
-using si730pc2u202211399.API.Sale.Domain.ValueObjects;
+using si730pc2u202211399.API.Sale.Domain.Model.Commands;
+using si730pc2u202211399.API.Sale.Domain.Model.ValueObjects;
 
-namespace si730pc2u202211399.API.Sale.Domain.Aggregates;
+namespace si730pc2u202211399.API.Sale.Domain.Model.Aggregates;
+
+/**
+ * PurchaseOrder aggregate root
+ *
+ * <summary>
+ *      Represents the PurchaseOrder aggregate root.
+ * </summary>
+ * <remarks>
+ *  <author>U202211399 Christopher Lecca</author>
+ *  <version>1.0</version>
+ * </remarks>
+ */
 
 public partial class PurchaseOrder
 {
