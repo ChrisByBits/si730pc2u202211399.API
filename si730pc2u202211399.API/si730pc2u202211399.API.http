@@ -1,0 +1,6 @@
+@si730pc2u202211399.API_HostAddress = http://localhost:5198
+
+GET {{si730pc2u202211399.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
